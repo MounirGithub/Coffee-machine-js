@@ -1,0 +1,14 @@
+{
+    "name": "coffee-machine-js",
+    "main": "index.js",
+    "scripts": {
+      "test": "npm test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MounirGithub/Coffee-machine-js.git"
+    },
+    "dependencies": {
+      "jest": "^24.5.0"
+    }
+}
