@@ -1,14 +1,22 @@
 {
-    "name": "coffee-machine-js",
-    "main": "index.js",
-    "scripts": {
-      "test": "npm test"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MounirGithub/Coffee-machine-js.git"
-    },
-    "dependencies": {
-      "jest": "^24.5.0"
-    }
+  "name": "coffee-machine-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MounirGithub/Coffee-machine-js.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^24.9.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.9.0"
+  }
 }
