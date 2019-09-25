@@ -1,5 +1,5 @@
 export const commands = {
     TEA: 'T',
-    COFFEE:'C',
-    CHOCOLATE:'H'
+    COFFEE: 'C',
+    CHOCOLATE_PRICE: 'H'
 }
