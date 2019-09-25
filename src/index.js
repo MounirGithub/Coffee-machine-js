@@ -5,9 +5,9 @@ export function drinkMaker() {
     let coffee = eachDrink(data,'C');
     let tea = eachDrink(data,'T');
     let chocolate = eachDrink(data,'H');
-    let orange = eachDrink(data,'0');
+    let orange = eachDrink(data,'O');
 
-    return coffee +'coffee and ' + tea +' tea and ' + chocolate +  ' chocolate and ' + orange + 'orange with total of '+ total;
+    return coffee +' coffee and ' + tea +' tea and ' + chocolate +  ' chocolate and ' + orange + ' orange with a total of '+ total;
 }
 
 function eachDrink(data,drink) {
