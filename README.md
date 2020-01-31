@@ -1,4 +1,5 @@
 # Coffee-machine-js
+http://simcap.github.io/coffeemachine/
 # Introduction
 
 This mini project is used to learn Test Driven Development.
